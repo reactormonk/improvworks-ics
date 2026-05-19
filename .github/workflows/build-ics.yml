@@ -1,0 +1,46 @@
+name: Build events.ics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - scrape.py
+      - requirements.txt
+      - .github/workflows/build-ics.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-ics
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python scrape.py
+
+      - name: Commit events.ics if changed
+        run: |
+          if [ -z "$(git status --porcelain events.ics)" ]; then
+            echo "No changes to events.ics."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add events.ics
+          git commit -m "Update events.ics"
+          git push
