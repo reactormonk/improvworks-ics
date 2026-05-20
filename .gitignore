@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+debug-page.html
+debug-warmup.json
+.claude

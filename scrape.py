@@ -4,6 +4,9 @@
 The page is a Wix site whose Events widget ships every upcoming show as
 structured JSON inside <script id="wix-warmup-data">. We parse that JSON
 (no HTML scraping) and emit a single iCalendar file.
+
+On failure, dumps debug-page.html and debug-warmup.json next to this
+script so a CI artifact step can upload them for inspection.
 """
 
 from __future__ import annotations
@@ -19,48 +22,118 @@ from icalendar import Calendar, Event
 
 SOURCE_URL = "https://www.improvworksberlin.com/shows"
 EVENT_PAGE_BASE = "https://www.improvworksberlin.com/event-info/"
-OUTPUT = Path(__file__).resolve().parent / "events.ics"
-USER_AGENT = "improvworks-ics/1.0 (+https://github.com/)"
+HERE = Path(__file__).resolve().parent
+OUTPUT = HERE / "events.ics"
+DEBUG_HTML = HERE / "debug-page.html"
+DEBUG_JSON = HERE / "debug-warmup.json"
+
+# Wix appears to render the Events widget conditionally on visitor
+# locale (the venue is in Berlin and serves German), so hint de-DE in
+# case GitHub's US runner IP would otherwise get an English/empty
+# variant. We do NOT override Accept-Encoding — requests negotiates it,
+# and we install `brotli` so any encoding the server picks decodes
+# correctly.
+REQUEST_HEADERS = {
+    "User-Agent": "improvworks-ics/1.0 (+https://github.com/)",
+    "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.5",
+    "Accept-Language": "de-DE,de;q=0.9,en;q=0.5",
+}
 
 
-def fetch_warmup_data(url: str) -> dict:
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+def log(msg: str) -> None:
+    print(msg, file=sys.stderr, flush=True)
+
+
+def fail(msg: str) -> "NoReturn":  # type: ignore[valid-type]
+    log(f"error: {msg}")
+    sys.exit(1)
+
+
+def fetch_page(url: str) -> requests.Response:
+    log(f"fetching {url}")
+    resp = requests.get(url, headers=REQUEST_HEADERS, timeout=30)
+    log(f"  status={resp.status_code} final_url={resp.url} bytes={len(resp.content)}")
+    if resp.history:
+        for h in resp.history:
+            log(f"  redirect: {h.status_code} {h.url}")
     resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "lxml")
+    DEBUG_HTML.write_text(resp.text, encoding="utf-8")
+    log(f"  wrote {DEBUG_HTML}")
+    return resp
+
+
+def extract_warmup(html: str) -> dict:
+    soup = BeautifulSoup(html, "lxml")
     tag = soup.find("script", id="wix-warmup-data")
     if tag is None or not tag.string:
-        sys.exit("error: <script id='wix-warmup-data'> not found on page")
-    return json.loads(tag.string)
+        log("diagnostics: wix-warmup-data script tag not found")
+        scripts = soup.find_all("script")
+        log(f"  total <script> tags on page: {len(scripts)}")
+        ids_seen = sorted({s.get("id") for s in scripts if s.get("id")})
+        log(f"  script @id values seen: {ids_seen}")
+        fail("<script id='wix-warmup-data'> not found on page")
+    payload = json.loads(tag.string)
+    DEBUG_JSON.write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    log(f"  wrote {DEBUG_JSON} ({len(tag.string)} chars source)")
+    return payload
 
 
 def find_events(payload: object) -> list[dict]:
-    """Locate the events list within the Wix warmup payload."""
+    """Locate the events list within the Wix warmup payload.
 
-    def walk(obj):
+    Match heuristic: a list whose first element looks like a Wix event
+    (has a 'scheduling' or 'startDate'/'endDate' shape). Keeps working
+    even if Wix renames the wrapping key.
+    """
+
+    def looks_like_event(obj: object) -> bool:
+        if not isinstance(obj, dict):
+            return False
+        if isinstance(obj.get("scheduling"), dict):
+            return True
+        if "startDate" in obj and "endDate" in obj and "title" in obj:
+            return True
+        return False
+
+    paths_with_events_key: list[str] = []
+
+    def walk(obj, path: str = ""):
         if isinstance(obj, dict):
             for k, v in obj.items():
+                p = f"{path}/{k}"
+                if k == "events" and isinstance(v, list):
+                    paths_with_events_key.append(f"{p} (len={len(v)})")
                 if (
-                    k == "events"
-                    and isinstance(v, list)
+                    isinstance(v, list)
                     and v
-                    and isinstance(v[0], dict)
-                    and "id" in v[0]
-                    and "scheduling" in v[0]
+                    and looks_like_event(v[0])
                 ):
+                    log(f"  events list at {p} ({len(v)} items)")
                     return v
-                r = walk(v)
+                r = walk(v, p)
                 if r is not None:
                     return r
         elif isinstance(obj, list):
-            for v in obj:
-                r = walk(v)
+            for i, v in enumerate(obj):
+                r = walk(v, f"{path}[{i}]")
                 if r is not None:
                     return r
         return None
 
     events = walk(payload)
     if not events:
-        sys.exit("error: no events list found in warmup data")
+        log("diagnostics: no event-shaped list found in warmup payload")
+        top_keys = list(payload.keys()) if isinstance(payload, dict) else []
+        log(f"  top-level keys: {top_keys}")
+        if paths_with_events_key:
+            log("  saw 'events' keys at these paths (but none looked event-shaped):")
+            for p in paths_with_events_key:
+                log(f"    {p}")
+        else:
+            log("  no 'events' key seen anywhere in the payload")
+        fail("no events list found in warmup data")
     return events
 
 
@@ -78,11 +151,15 @@ def build_calendar(events: list[dict]) -> Calendar:
 
     now = datetime.now(timezone.utc)
     kept = 0
+    skipped_status = 0
+    skipped_no_dates = 0
     for ev in events:
         if ev.get("status") != 0:
+            skipped_status += 1
             continue
         sched = ev.get("scheduling", {}).get("config", {})
         if not sched.get("startDate") or not sched.get("endDate"):
+            skipped_no_dates += 1
             continue
         start = parse_iso_utc(sched["startDate"])
         end = parse_iso_utc(sched["endDate"])
@@ -129,16 +206,20 @@ def build_calendar(events: list[dict]) -> Calendar:
         cal.add_component(vevent)
         kept += 1
 
-    print(f"emitted {kept} of {len(events)} events", file=sys.stderr)
+    log(
+        f"kept {kept} of {len(events)} events "
+        f"(skipped: status!=0 → {skipped_status}, missing dates → {skipped_no_dates})"
+    )
     return cal
 
 
 def main() -> int:
-    payload = fetch_warmup_data(SOURCE_URL)
+    resp = fetch_page(SOURCE_URL)
+    payload = extract_warmup(resp.text)
     events = find_events(payload)
     cal = build_calendar(events)
     OUTPUT.write_bytes(cal.to_ical())
-    print(f"wrote {OUTPUT}", file=sys.stderr)
+    log(f"wrote {OUTPUT}")
     return 0
 
 
