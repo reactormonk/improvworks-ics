@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Challenge Accepted!
 DTSTART:20260522T173000Z
 DTEND:20260522T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:6f8329e7-0f03-4b00-bfaf-22d825019e59@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/challenge-accepte
  d-4
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Hold My Beer: Standout Standup
 DTSTART:20260523T173000Z
 DTEND:20260523T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:f69d42fd-0bd2-4cdd-ab0e-c7594283fe81@improvworksberlin.com
 DESCRIPTION:A hilarious night of standup comedy in English!\n\nhttps://www
  .improvworksberlin.com/event-info/hold-my-beer-standout-standup-11
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Meetup/Drop-in Workshop
 DTSTART:20260524T123000Z
 DTEND:20260524T140000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:c30b5a07-0a89-4954-b762-ffa799d1501d@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/meetup-drop-in-wo
  rkshop-2026-05-24-14-30
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260524T173000Z
 DTEND:20260524T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:4ae4bf65-a380-4a3b-a3a5-06d0a60672ea@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-05-24-19-30
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260526T153000Z
 DTEND:20260526T170000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:66b3f88b-9144-433f-8ce5-b58d5def5200@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-05-26-17-30
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260531T173000Z
 DTEND:20260531T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:2072ecf3-3cd5-48ca-9fc9-08a883f38a94@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-05-31-19-30
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260602T153000Z
 DTEND:20260602T170000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:bdce5b8e-bda7-4033-8fe9-d4f05c0b08e4@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-06-02-17-30
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Showcase
 DTSTART:20260605T173000Z
 DTEND:20260605T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:ec892055-7bcf-4948-92f8-3e164fc3c7d6@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-showca
  se-21
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:The Naked Flamingos: Improv Show & Jam!
 DTSTART:20260606T173000Z
 DTEND:20260606T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:1b6c4eb1-65b8-41d2-a1b1-2b41518316d8@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-naked-flaming
  os-improv-show-jam
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260607T173000Z
 DTEND:20260607T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:6d5b33e7-b17c-4432-aed0-b6a4d84f188b@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-06-07-19-30
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260609T153000Z
 DTEND:20260609T170000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:4350a182-14f7-426d-9e98-6a5a0b81ffaf@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-06-09-17-30
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Xtravaganza
 DTSTART:20260612T173000Z
 DTEND:20260612T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:961e4c54-10e3-4959-a6b5-f37dc5b24ddd@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-xtrava
  ganza-18
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Laughing Matter
 DTSTART:20260613T173000Z
 DTEND:20260613T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:a2a2c1c5-f45f-4a9e-a52e-3acefd283cdc@improvworksberlin.com
 DESCRIPTION:Weird science and even weirder improv!\n\nhttps://www.improvwo
  rksberlin.com/event-info/laughing-matter-11
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20260614T173000Z
 DTEND:20260614T203000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:b2cfcb48-20dc-4c52-a24b-eea0318f5899@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260616T153000Z
 DTEND:20260616T170000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:6de88adc-e975-45a5-a751-c8e505211971@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-06-16-17-30
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:The Buckingham
 DTSTART:20260619T173000Z
 DTEND:20260619T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:13333568-2e3e-45dc-8817-1dc94b08925f@improvworksberlin.com
 DESCRIPTION:The best of ImprovWorks Berlin and friends!\n\nhttps://www.imp
  rovworksberlin.com/event-info/the-buckingham-6
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Lights Up! A Completely Improvised Musical Comedy
 DTSTART:20260620T173000Z
 DTEND:20260620T203000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:38432cdd-f5e4-4096-9d39-36706595a873@improvworksberlin.com
 DESCRIPTION:Featuring Kaleidoscope\, Berlin's premiere musical improv trou
  pe!\n\nhttps://www.improvworksberlin.com/event-info/lights-up-a-completely
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:FLINTA* Improv Jam
 DTSTART:20260621T173000Z
 DTEND:20260621T200000Z
-DTSTAMP:20260521T071828Z
+DTSTAMP:20260521T130826Z
 UID:fd83ad84-fae0-411b-bd53-9d1290cd5ec1@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/flinta-improv-jam
 GEO:52.5035468;13.4544607
