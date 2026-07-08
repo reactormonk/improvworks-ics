@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Hostel
 DTSTART:20260710T173000Z
 DTEND:20260710T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:ae868b2c-5f43-46da-bf4a-9f9faa145250@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-hostel
  -13
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Night
 DTSTART:20260710T203000Z
 DTEND:20260710T215000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:9c2e0eec-4163-45d7-b1cf-a6c6e8de9f30@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/sketch-night-2
 GEO:52.5035468;13.4544607
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Clown Playground: An Introduction
 DTSTART:20260712T120000Z
 DTEND:20260712T150000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:c7b66ff6-0d2a-44c7-b985-86cea1efc3f3@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/clown-playground-
  an-introduction
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260712T173000Z
 DTEND:20260712T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:a52b700c-7d4d-4284-b3b9-125af96073d9@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-07-12-19-30
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Lights Up! A Completely Improvised Musical Comedy
 DTSTART:20260718T173000Z
 DTEND:20260718T203000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:1fd16111-509a-47b6-879c-e5b7326b2434@improvworksberlin.com
 DESCRIPTION:Featuring Kaleidoscope\, Berlin's premiere musical improv trou
  pe!\n\nhttps://www.improvworksberlin.com/event-info/lights-up-a-completely
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Chekhov & Eros in Improv
 DTSTART:20260719T120000Z
 DTEND:20260719T150000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:988849c8-7930-45d9-9b1e-863f1b79dc5f@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/chekhov-eros-in-i
  mprov
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20260719T173000Z
 DTEND:20260719T203000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:bd8e8f19-7dc0-4c3d-a956-3148cd35b144@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m-2026-07-19-19-30
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Improv Troupes: Meet & Organize!
 DTSTART:20260726T120000Z
 DTEND:20260726T150000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:46a58e20-7d98-4f7a-9497-c6fe0f890bb7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/improv-troupes-me
  et-organize
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260726T173000Z
 DTEND:20260726T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:9ba06384-944b-4a59-9941-00208b8fae25@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-07-26-19-30
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20260816T173000Z
 DTEND:20260816T203000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:fa91a545-dc96-4946-9841-5d63f76f37f1@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m-2026-08-16-19-30
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260823T173000Z
 DTEND:20260823T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:6f9136d6-ddae-4ea3-b83e-811385c4de7b@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-08-23-19-30
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260830T173000Z
 DTEND:20260830T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:0985274f-00fd-4a1a-aa98-6854f394d3f9@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-08-30-19-30
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Xtravaganza
 DTSTART:20260904T173000Z
 DTEND:20260904T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:7a23569a-dc7e-4284-8ffc-df93ddbd026f@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-xtrava
  ganza-19
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:The Naked Flamingos: Improv Show & Jam!
 DTSTART:20260905T173000Z
 DTEND:20260905T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:cae4a2a9-c7d4-4d20-a328-061d73feded7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-naked-flaming
  os-improv-show-jam-3
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260906T173000Z
 DTEND:20260906T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:0e16b5dd-a978-4adf-9fea-61fd7954d0a7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-09-06-19-30
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Laughing Matter
 DTSTART:20260912T173000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:7d7ddc37-d7ce-4dd5-aff0-d9c15e863d03@improvworksberlin.com
 DESCRIPTION:Weird science and even weirder improv!\n\nhttps://www.improvwo
  rksberlin.com/event-info/laughing-matter-12
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260913T173000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:b13e8ea7-a16c-40d2-b5ce-14bb3c644490@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-09-13-19-30
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20260920T173000Z
 DTEND:20260920T203000Z
-DTSTAMP:20260708T081933Z
+DTSTAMP:20260708T135134Z
 UID:9470b8f5-630c-438b-9083-d91c754eea12@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m-2026-09-20-19-30
