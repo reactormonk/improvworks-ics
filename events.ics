@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Xtravaganza
 DTSTART:20260904T173000Z
 DTEND:20260904T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:7a23569a-dc7e-4284-8ffc-df93ddbd026f@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-xtrava
  ganza-19
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:The Naked Flamingos: Improv Show & Jam!
 DTSTART:20260905T173000Z
 DTEND:20260905T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:cae4a2a9-c7d4-4d20-a328-061d73feded7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-naked-flaming
  os-improv-show-jam-3
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260906T173000Z
 DTEND:20260906T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:0e16b5dd-a978-4adf-9fea-61fd7954d0a7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-09-06-19-30
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260908T153000Z
 DTEND:20260908T170000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:0b48a3c9-acfa-4d04-811e-3482d5e95841@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-09-08-17-30
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Hostel
 DTSTART:20260911T173000Z
 DTEND:20260911T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:54fac1eb-3016-41cc-a883-14bbdd636d52@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-hostel
  -14
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Challenge Accepted!
 DTSTART:20260912T173000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:6c1b18a0-cf20-49be-8dc3-0a6ec6670601@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/challenge-accepte
  d-5
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Room at the Table: Dungeons & Dragons (etc.)
 DTSTART:20260912T201500Z
 DTEND:20260912T221500Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:c8775343-63f4-42d1-9a21-88ee0b2d0c92@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/room-at-the-table
  -dungeons-dragons-etc
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260913T173000Z
 DTEND:20260913T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:b13e8ea7-a16c-40d2-b5ce-14bb3c644490@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-09-13-19-30
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260915T153000Z
 DTEND:20260915T170000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:645f1cce-688f-4292-be19-3e0cb72e9d7c@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-09-15-17-30
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:The Buckingham
 DTSTART:20260919T173000Z
 DTEND:20260919T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:9456ad7b-be86-4c48-b30e-72bd2c10ff63@improvworksberlin.com
 DESCRIPTION:The best of ImprovWorks Berlin and friends!\n\nhttps://www.imp
  rovworksberlin.com/event-info/the-buckingham-7
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20260920T173000Z
 DTEND:20260920T203000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:9470b8f5-630c-438b-9083-d91c754eea12@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m-2026-09-20-19-30
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260922T153000Z
 DTEND:20260922T170000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:136f125c-a2de-4c40-a6d0-2ce2ff2dbbf7@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-09-22-17-30
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Lights Up! A Completely Improvised Musical Comedy
 DTSTART:20260925T173000Z
 DTEND:20260925T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:4ab7f5c0-6e50-4619-aa71-706017dbe2f9@improvworksberlin.com
 DESCRIPTION:Featuring Kaleidoscope\, Berlin's premiere musical improv trou
  pe!\n\nhttps://www.improvworksberlin.com/event-info/lights-up-a-completely
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Hold My Beer: Standout Standup
 DTSTART:20260926T173000Z
 DTEND:20260926T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:ff94482d-253b-4a81-8edd-804cd60b28ea@improvworksberlin.com
 DESCRIPTION:A hilarious night of standup comedy in English!\n\nhttps://www
  .improvworksberlin.com/event-info/hold-my-beer-standout-standup-14
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20260927T173000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:0b5c4c87-1388-4d24-898a-7c2225b161d7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-09-27-19-30
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20260929T153000Z
 DTEND:20260929T170000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:48825aba-40a4-4511-8948-daadf2665f98@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-09-29-17-30
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261004T173000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:4c7fd647-e1e9-4fde-8504-11b9ae1b21a2@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-10-04-19-30
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261006T153000Z
 DTEND:20261006T170000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:c7d5dcdc-662c-4532-ba0d-e62d3d3f51c5@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-10-06-17-30
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261011T173000Z
 DTEND:20261011T200000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:bb24f72c-fa42-484a-b2b7-428be0b57bee@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-10-11-19-30
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
-DTSTAMP:20260901T155751Z
+DTSTAMP:20260901T202603Z
 UID:3bc74ba2-863b-4dc1-8cf0-dc5d59d2a163@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-10-13-17-30
