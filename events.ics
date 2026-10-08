@@ -8,12 +8,12 @@ BEGIN:VEVENT
 SUMMARY:The Improv Showcase
 DTSTART:20261009T173000Z
 DTEND:20261009T200000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:eed9ff3d-e582-40f3-9e46-652150ca2b23@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-showca
  se-23
 GEO:52.5035468;13.4544607
-LAST-MODIFIED:20260918T110034Z
+LAST-MODIFIED:20261008T142226Z
 LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
 STATUS:CONFIRMED
 URL:https://www.improvworksberlin.com/event-info/the-improv-showcase-23
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Night
 DTSTART:20261009T201500Z
 DTEND:20261009T221500Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:77a05a1b-c43d-4bc0-83a9-4bfc41cd59ca@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/sketch-night-4
 GEO:52.5035468;13.4544607
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Room at the Table: Dungeons & Dragons (etc.)
 DTSTART:20261010T173000Z
 DTEND:20261010T203000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:50e56578-71b5-4178-9a83-30ed1c2193c4@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/room-at-the-table
  -dungeons-dragons-etc-2
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261011T173000Z
 DTEND:20261011T200000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:bb24f72c-fa42-484a-b2b7-428be0b57bee@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-10-11-19-30
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Mindful Mondays
 DTSTART:20261012T153000Z
 DTEND:20261012T170000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:a3afb24d-ded3-47f7-9b3e-2a9393744187@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/mindful-mondays-2
  026-10-12-17-30
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:3bc74ba2-863b-4dc1-8cf0-dc5d59d2a163@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-10-13-17-30
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Kaleidoscope: Lights Up! A Completely Improvised Musical Comedy
 DTSTART:20261017T173000Z
 DTEND:20261017T200000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:d4feffde-4e0a-4597-95aa-aa324bab2f32@improvworksberlin.com
 DESCRIPTION:Featuring Kaleidoscope\, Berlin's premiere musical improv trou
  pe!\n\nhttps://www.improvworksberlin.com/event-info/kaleidoscope-lights-up
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20261018T173000Z
 DTEND:20261018T203000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:febe3edf-7b28-4711-9851-6e23e5dc7eb9@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m-2026-10-18-19-30
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Mindful Mondays
 DTSTART:20261019T153000Z
 DTEND:20261019T170000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:e13c91e8-069e-4502-8776-cf21af7c0afa@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/mindful-mondays-2
  026-10-19-17-30
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261020T153000Z
 DTEND:20261020T170000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:988efe12-98f8-474d-979f-0e393ac37cc9@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-10-20-17-30
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:The Buckingham
 DTSTART:20261023T173000Z
 DTEND:20261023T200000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:bf03ee5e-f406-433e-9682-83358e2a132d@improvworksberlin.com
 DESCRIPTION:The best of ImprovWorks Berlin and friends!\n\nhttps://www.imp
  rovworksberlin.com/event-info/the-buckingham-8
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Night Heat Blue Jam
 DTSTART:20261023T203000Z
 DTEND:20261023T220000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:2024b8eb-1902-4454-815d-295c0343f62b@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/night-heat-blue-j
  am-2
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Hold My Beer: Standout Standup
 DTSTART:20261024T173000Z
 DTEND:20261024T200000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:5caeaf3d-363e-46b9-92f6-7c88ea33255f@improvworksberlin.com
 DESCRIPTION:A hilarious night of standup comedy in English!\n\nhttps://www
  .improvworksberlin.com/event-info/hold-my-beer-standout-standup-15
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:New Games & Forms Night
 DTSTART:20261024T203000Z
 DTEND:20261024T220000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:a2a34a73-9530-4f14-8155-2973eb73098e@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/new-games-forms-n
  ight-2
@@ -213,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261025T183000Z
 DTEND:20261025T210000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:2a4ba0da-392e-4017-a6cd-4ba7880d2d3d@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-10-25-19-30
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Mindful Mondays
 DTSTART:20261026T163000Z
 DTEND:20261026T180000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:c8c99648-792b-4dd2-8855-0aee660e596f@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/mindful-mondays-2
  026-10-26-17-30
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261027T163000Z
 DTEND:20261027T180000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:4303b05a-d5ac-42d8-919c-5d8c52212b21@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-10-27-17-30
@@ -255,10 +255,24 @@ URL:https://www.improvworksberlin.com/event-info/sounds-fun-2026-10-27-17-
  30
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Spooktacular
+DTSTART:20261031T183000Z
+DTEND:20261031T220000Z
+DTSTAMP:20261008T224613Z
+UID:5f620fd9-3cb6-4df3-915f-8b4ecc1cee8c@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/halloween-spookta
+ cular
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20261008T150252Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/halloween-spooktacular
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Sketchbook
 DTSTART:20261101T093000Z
 DTEND:20261101T113000Z
-DTSTAMP:20261008T124113Z
+DTSTAMP:20261008T224613Z
 UID:f4c51495-7355-43a9-bdf1-472db5ea8ded@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-sketchbook-2
 GEO:52.5035468;13.4544607
@@ -266,5 +280,167 @@ LAST-MODIFIED:20261005T114338Z
 LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
 STATUS:CONFIRMED
 URL:https://www.improvworksberlin.com/event-info/the-sketchbook-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short & Sweet Jam / Open Stage
+DTSTART:20261101T183000Z
+DTEND:20261101T210000Z
+DTSTAMP:20261008T224613Z
+UID:20de1acc-6729-49a7-a685-5049dc789163@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
+ pen-stage-2026-11-01-19-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20260817T123809Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/short-sweet-jam-open-stag
+ e-2026-11-01-19-30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Mondays
+DTSTART:20261102T163000Z
+DTEND:20261102T180000Z
+DTSTAMP:20261008T224613Z
+UID:5cdce684-2b22-4e5a-91a7-735b9225be64@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/mindful-mondays-2
+ 026-11-02-17-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20261005T112308Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/mindful-mondays-2026-11-0
+ 2-17-30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sounds Fun!
+DTSTART:20261103T163000Z
+DTEND:20261103T180000Z
+DTSTAMP:20261008T224613Z
+UID:5253e6bd-62d4-4785-b0d8-c77e3f09f29f@improvworksberlin.com
+DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
+ improvworksberlin.com/event-info/sounds-fun-2026-11-03-17-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20260824T140358Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/sounds-fun-2026-11-03-17-
+ 30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Improv Xtravaganza
+DTSTART:20261106T183000Z
+DTEND:20261106T210000Z
+DTSTAMP:20261008T224613Z
+UID:1a450fa0-40ac-4259-84f3-651809049483@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-xtrava
+ ganza-21
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20261005T115002Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/the-improv-xtravaganza-21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Naked Flamingos: Improv Show & Jam!
+DTSTART:20261107T183000Z
+DTEND:20261107T210000Z
+DTSTAMP:20261008T224613Z
+UID:4ea16603-89d4-475e-a58a-a24215be4caa@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/the-naked-flaming
+ os-improv-show-jam-5
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20261005T114418Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/the-naked-flamingos-impro
+ v-show-jam-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short & Sweet Jam / Open Stage
+DTSTART:20261108T183000Z
+DTEND:20261108T210000Z
+DTSTAMP:20261008T224613Z
+UID:49b8feea-aabf-4c23-8d2e-e13cb5f38e06@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
+ pen-stage-2026-11-08-19-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20260817T123809Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/short-sweet-jam-open-stag
+ e-2026-11-08-19-30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Mondays
+DTSTART:20261109T163000Z
+DTEND:20261109T180000Z
+DTSTAMP:20261008T224613Z
+UID:355e356e-0d81-4e02-b062-60d4fd79c1ff@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/mindful-mondays-2
+ 026-11-09-17-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20261005T112309Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/mindful-mondays-2026-11-0
+ 9-17-30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sounds Fun!
+DTSTART:20261110T163000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261008T224613Z
+UID:92f384d1-7b63-44e5-9e70-b4b5c2a1b1df@improvworksberlin.com
+DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
+ improvworksberlin.com/event-info/sounds-fun-2026-11-10-17-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20260824T140358Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/sounds-fun-2026-11-10-17-
+ 30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Improv Hostel
+DTSTART:20261113T183000Z
+DTEND:20261113T210000Z
+DTSTAMP:20261008T224613Z
+UID:64e5496b-9098-4e63-bb86-f084a751b62c@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-hostel
+ -15
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20261005T191950Z
+LOCATION:Haus Zwingli\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/the-improv-hostel-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Challenge Accepted!
+DTSTART:20261114T183000Z
+DTEND:20261114T210000Z
+DTSTAMP:20261008T224613Z
+UID:ef818543-c746-44ad-8909-242e430f8653@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/challenge-accepte
+ d-6
+GEO:52.5036287;13.454515
+LAST-MODIFIED:20260918T105243Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/challenge-accepted-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Musical Improv Jam!
+DTSTART:20261115T183000Z
+DTEND:20261115T213000Z
+DTSTAMP:20261008T224613Z
+UID:d96354f8-5d12-4b75-8ea6-461515c3d15d@improvworksberlin.com
+DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
+ m-2026-11-15-19-30
+GEO:52.5035468;13.4544607
+LAST-MODIFIED:20260528T124454Z
+LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
+STATUS:CONFIRMED
+URL:https://www.improvworksberlin.com/event-info/musical-improv-jam-2026-1
+ 1-15-19-30
 END:VEVENT
 END:VCALENDAR
