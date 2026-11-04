@@ -5,25 +5,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:ImprovWorks Berlin – Shows
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Sounds Fun!
-DTSTART:20261103T163000Z
-DTEND:20261103T180000Z
-DTSTAMP:20261103T224825Z
-UID:5253e6bd-62d4-4785-b0d8-c77e3f09f29f@improvworksberlin.com
-DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
- improvworksberlin.com/event-info/sounds-fun-2026-11-03-17-30
-GEO:52.5035468;13.4544607
-LAST-MODIFIED:20260824T140358Z
-LOCATION:ImprovWorks Berlin\, Rudolfstraße 14\, 10245 Berlin\, Germany
-STATUS:CONFIRMED
-URL:https://www.improvworksberlin.com/event-info/sounds-fun-2026-11-03-17-
- 30
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Improv Xtravaganza
 DTSTART:20261106T183000Z
 DTEND:20261106T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:1a450fa0-40ac-4259-84f3-651809049483@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-xtrava
  ganza-21
@@ -37,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:The Naked Flamingos: Improv Show & Jam!
 DTSTART:20261107T183000Z
 DTEND:20261107T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:4ea16603-89d4-475e-a58a-a24215be4caa@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-naked-flaming
  os-improv-show-jam-5
@@ -52,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261108T183000Z
 DTEND:20261108T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:49b8feea-aabf-4c23-8d2e-e13cb5f38e06@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-11-08-19-30
@@ -67,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261110T163000Z
 DTEND:20261110T180000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:92f384d1-7b63-44e5-9e70-b4b5c2a1b1df@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-11-10-17-30
@@ -82,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Hostel
 DTSTART:20261113T183000Z
 DTEND:20261113T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:64e5496b-9098-4e63-bb86-f084a751b62c@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-hostel
  -15
@@ -96,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Night
 DTSTART:20261113T213000Z
 DTEND:20261113T230000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:3b74dfcb-2d75-4018-959f-70cf9bc950e4@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/sketch-night-5
 GEO:52.5035468;13.4544607
@@ -109,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Challenge Accepted!
 DTSTART:20261114T183000Z
 DTEND:20261114T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:ef818543-c746-44ad-8909-242e430f8653@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/challenge-accepte
  d-6
@@ -123,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Room at the Table: Dungeons & Dragons (etc.)
 DTSTART:20261114T213000Z
 DTEND:20261114T230000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:cf3935fc-ccd8-42a8-b8b5-d075176b6326@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/room-at-the-table
  -dungeons-dragons-etc-3
@@ -138,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Improv Jam!
 DTSTART:20261115T183000Z
 DTEND:20261115T213000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:d96354f8-5d12-4b75-8ea6-461515c3d15d@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/musical-improv-ja
  m-2026-11-15-19-30
@@ -153,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261117T163000Z
 DTEND:20261117T180000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:d6a1ddd0-044d-4275-889c-e52d259577d5@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-11-17-17-30
@@ -168,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Meetup/Drop-in Workshop
 DTSTART:20261118T163000Z
 DTEND:20261118T183000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:508c43e4-b82b-4ed6-900b-62aa7472f01b@improvworksberlin.com
 DESCRIPTION:Whether you're an experienced improviser or a total beginner\,
   this weekly workshop will get you connecting\, learning and laughing in n
@@ -186,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Kaleidoscope: Lights Up! A Completely Improvised Musical Comedy
 DTSTART:20261121T183000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:3c219f09-9659-4143-bbb1-e88840babac6@improvworksberlin.com
 DESCRIPTION:Featuring Kaleidoscope\, Berlin's premiere musical improv trou
  pe!\n\nhttps://www.improvworksberlin.com/event-info/kaleidoscope-lights-up
@@ -202,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261122T183000Z
 DTEND:20261122T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:f5fc4eb4-a07d-4d83-b2d3-d9f127869720@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-11-22-19-30
@@ -217,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261124T163000Z
 DTEND:20261124T180000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:704144a8-0bef-4137-b69d-7f0d9a27edbd@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-11-24-17-30
@@ -232,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:The Buckingham
 DTSTART:20261127T183000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:eccf0d20-d842-4d9b-9ede-a9533a5303a6@improvworksberlin.com
 DESCRIPTION:The best of ImprovWorks Berlin and friends!\n\nhttps://www.imp
  rovworksberlin.com/event-info/the-buckingham-9
@@ -246,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Hold My Beer: Standout Standup
 DTSTART:20261128T183000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:c4be19ae-fd83-476a-a812-20a45cda2032@improvworksberlin.com
 DESCRIPTION:A hilarious night of standup comedy in English!\n\nhttps://www
  .improvworksberlin.com/event-info/hold-my-beer-standout-standup-16
@@ -261,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261129T183000Z
 DTEND:20261129T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:a508af4f-649a-44a1-b29e-0e3ad9fee6a1@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-11-29-19-30
@@ -276,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Sounds Fun!
 DTSTART:20261201T163000Z
 DTEND:20261201T180000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:b2526df9-3249-47d5-ad0a-a28cafa3156c@improvworksberlin.com
 DESCRIPTION:An all-experience-level first step into music.\n\nhttps://www.
  improvworksberlin.com/event-info/sounds-fun-2026-12-01-17-30
@@ -291,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261206T183000Z
 DTEND:20261206T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:2d442040-fc17-4921-a871-6a31d2001a5d@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-12-06-19-30
@@ -306,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Mindful Mondays
 DTSTART:20261207T163000Z
 DTEND:20261207T180000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:47a70646-c55b-483c-aa1c-5ce2584daa4c@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/mindful-mondays-2
  026-12-07-17-30
@@ -321,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:The Improv Showcase
 DTSTART:20261211T183000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:f104369b-1d29-42b2-bab4-c430368bbea7@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/the-improv-showca
  se-24
@@ -335,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Short & Sweet Jam / Open Stage
 DTSTART:20261213T183000Z
 DTEND:20261213T210000Z
-DTSTAMP:20261103T224825Z
+DTSTAMP:20261104T043346Z
 UID:75e1284e-05a2-4938-8eac-135e096794f9@improvworksberlin.com
 DESCRIPTION:https://www.improvworksberlin.com/event-info/short-sweet-jam-o
  pen-stage-2026-12-13-19-30
